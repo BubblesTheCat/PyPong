@@ -8,6 +8,7 @@ PyPong. I made it within two days, and it's not fancy. It is just
 bouncing a ball back and forth until you mess up and the game kicks you out.
 But that's not the point, the point is to show that I can make something real 
 using design processes, my superficial knowledge of python and a little bit of research.
+The only python library that it uses is pygame.
 
 # The Making Of: Please Don't Read All Of This, I Value Your Time
 For the most part, creating this was simple and the majority of issues that I faced were simple mistakes like writing X instead of Y,
